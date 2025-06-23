@@ -1,0 +1,251 @@
+
+========================================
+Текущий рабочий каталог
+========================================
+
+/Users/n/Desktop
+
+========================================
+Текущий запущенный процесс
+========================================
+
+  PID COMMAND
+81657 /bin/bash ./lab1.sh --tofile output.txt
+
+========================================
+Домашний каталог
+========================================
+
+/Users/n
+
+========================================
+Название и версия операционной системы
+========================================
+
+ProductName:		macOS
+ProductVersion:		13.5
+BuildVersion:		22G74
+
+========================================
+Показать все доступные оболочки в вашей системе
+========================================
+
+# List of acceptable shells for chpass(1).
+# Ftpd will not allow users to connect who are not using
+# one of these shells.
+
+/bin/bash
+/bin/csh
+/bin/dash
+/bin/ksh
+/bin/sh
+/bin/tcsh
+/bin/zsh
+
+========================================
+Текущие пользователи, вошедшие в систему
+========================================
+
+n                console      14 май 09:52 
+n                ttys000      23 май 03:28 
+
+========================================
+Количество пользователей, вошедших в систему
+========================================
+
+       2
+
+========================================
+Информация о жестких дисках
+========================================
+
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *251.0 GB   disk0
+   1:             Apple_APFS_ISC Container disk1         524.3 MB   disk0s1
+   2:                 Apple_APFS Container disk3         245.1 GB   disk0s2
+   3:        Apple_APFS_Recovery Container disk2         5.4 GB     disk0s3
+
+/dev/disk3 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +245.1 GB   disk3
+                                 Physical Store disk0s2
+   1:                APFS Volume Macintosh HD            9.2 GB     disk3s1
+   2:              APFS Snapshot com.apple.os.update-... 9.2 GB     disk3s1s1
+   3:                APFS Volume Preboot                 5.2 GB     disk3s2
+   4:                APFS Volume Recovery                1.6 GB     disk3s3
+   5:                APFS Volume Data                    211.3 GB   disk3s5
+   6:                APFS Volume VM                      5.4 GB     disk3s6
+
+
+========================================
+Информация о процессоре
+========================================
+
+Apple M1
+
+========================================
+Информация о памяти
+========================================
+
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                3316.
+Pages active:                             90891.
+Pages inactive:                           88878.
+Pages speculative:                         1142.
+Pages throttled:                              0.
+Pages wired down:                         94230.
+Pages purgeable:                             26.
+"Translation faults":                2279852425.
+Pages copy-on-write:                   16141966.
+Pages zero filled:                    432787820.
+Pages reactivated:                    563382431.
+Pages purged:                          44284280.
+File-backed pages:                        61444.
+Anonymous pages:                         119467.
+Pages stored in compressor:              945980.
+Pages occupied by compressor:            209765.
+Decompressions:                      1095562492.
+Compressions:                        1179662128.
+Pageins:                               33245334.
+Pageouts:                               1429020.
+Swapins:                               42476030.
+Swapouts:                              44701163.
+
+========================================
+Информация о файловой системе
+========================================
+
+Filesystem                                    Size   Used  Avail Capacity iused     ifree %iused  Mounted on
+/dev/disk3s1s1                               228Gi  8.5Gi   12Gi    43%  356048 121103200    0%   /
+devfs                                        202Ki  202Ki    0Bi   100%     700         0  100%   /dev
+/dev/disk3s6                                 228Gi  5.0Gi   12Gi    31%       5 121103200    0%   /System/Volumes/VM
+/dev/disk3s2                                 228Gi  4.8Gi   12Gi    30%     912 121103200    0%   /System/Volumes/Preboot
+/dev/disk3s4                                 228Gi  2.0Mi   12Gi     1%      21 121103200    0%   /System/Volumes/Update
+/dev/disk1s2                                 500Mi  6.0Mi  483Mi     2%       1   4941120    0%   /System/Volumes/xarts
+/dev/disk1s1                                 500Mi  6.1Mi  483Mi     2%      21   4941120    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3                                 500Mi  572Ki  483Mi     1%      64   4941120    0%   /System/Volumes/Hardware
+/dev/disk3s5                                 228Gi  197Gi   12Gi    95% 1897428 121103200    2%   /System/Volumes/Data
+map auto_home                                  0Bi    0Bi    0Bi   100%       0         0  100%   /System/Volumes/Data/home
+/Users/n/Downloads/Visual Studio Code-2.app  228Gi  197Gi   11Gi    95% 1897284 114369360    2%   /private/var/folders/77/n41ltbh911dfbp1fqsms5r_80000gq/T/AppTranslocation/3153AF46-F914-4208-ABD6-76FFC7F63211
+
+========================================
+Информация об установленных пакетах ПО
+========================================
+
+aom
+assimp
+berkeley-db
+berkeley-db@4
+berkeley-db@5
+brotli
+ca-certificates
+cairo
+check
+cmake
+dbus
+docbook
+double-conversion
+emacs
+expat
+fontconfig
+freetype
+fribidi
+gcc
+gd
+gdb
+gdbm
+gettext
+giflib
+git
+glib
+gmp
+gnuplot
+gnutls
+graphite2
+harfbuzz
+highway
+hunspell
+icu4c
+icu4c@77
+imath
+inetutils
+isl
+jansson
+jasper
+jpeg
+jpeg-turbo
+jpeg-xl
+krb5
+libarchive
+libavif
+libb2
+libcerf
+libdeflate
+libevent
+libidn2
+libmng
+libmpc
+libnghttp2
+libpng
+libpthread-stubs
+libtasn1
+libtiff
+libtool
+libunistring
+libvmaf
+libx11
+libxau
+libxcb
+libxdmcp
+libxext
+libxrender
+libyaml
+little-cms2
+lua
+lz4
+lzo
+m4
+md4c
+mingw-w64
+mono
+mpdecimal
+mpfr
+nettle
+ninja
+numpy
+openblas
+openexr
+openssl@1.1
+openssl@3
+ossp-uuid
+p11-kit
+pango
+pcre
+pcre2
+pixman
+pkg-config
+postgresql@15
+python-packaging
+python@3.10
+python@3.11
+python@3.12
+python@3.13
+qt
+qt@5
+readline
+sqlite
+swi-prolog
+tree
+tree-sitter
+unbound
+unixodbc
+webp
+xorgproto
+xz
+yaml-cpp
+zstd
+dbeaver-community
+panda
+thonny
+wine-stable
