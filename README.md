@@ -1,7 +1,5 @@
 4 sem
 
-# Student:
-# Kasumova Naida
+## Student: Kasumova Naida
 
-## Group:
-## 231-323
+## Group: 231-323
